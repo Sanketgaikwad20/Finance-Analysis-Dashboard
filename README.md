@@ -1,8 +1,8 @@
-# 💹 FinSight — Finance Analytics Dashboard (Power BI)
+# 💹 Finance Analytics Dashboard (Power BI)
 
 An interactive Power BI dashboard built to help financial organizations monitor and analyze transactions, customer behavior, fees, taxes, and performance across business segments and regions — in real time.
 
-![Overview Analysis](screenshots/overview_analysis.png)
+![Overview Analysis](https://github.com/Sanketgaikwad20/Finance-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
@@ -80,18 +80,6 @@ A detailed, filterable grid view of every underlying transaction record — incl
 - Dynamic/what-if measure switching
 - Dashboard UX design (KPI cards, drill-through pages, slicers)
 - Storytelling with data for business stakeholders
+  
 
-## 📁 Repository Contents
 
-```
-├── FinSight_Dashboard.pbix       # Power BI project file
-├── Business_Requirements.docx   # Original business requirements doc
-├── screenshots/
-│   ├── overview_analysis.png
-│   └── transactions_view.png
-└── README.md
-```
-
-## 📬 Contact
-
-Feel free to connect or reach out if you'd like to discuss the project or explore collaboration opportunities!
