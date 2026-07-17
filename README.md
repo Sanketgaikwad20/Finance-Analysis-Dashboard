@@ -60,7 +60,7 @@ Provide a centralized analytical solution that helps stakeholders:
 
 **Interactive Filters:** Year, Dynamic Measure, Occupation, Category
 
-![Transactions Drill-through View](screenshots/transactions_view.png)
+![Transactions Drill-through View](https://github.com/Sanketgaikwad20/Finance-Analysis-Dashboard/blob/main/Snapshot%20of%20Transaction%20Dashboard%20.png)
 
 ### Page 2 — Transactions (Drill-through)
 
